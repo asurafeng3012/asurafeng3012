@@ -29,13 +29,6 @@ I am a **Cybersecurity Enthusiast** with a passion for **threat detection, incid
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-### SIEM & Security Automation
-<div>
-    <img src="https://img.shields.io/badge/-Elastic_Stack_(ELK)-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-FF6600?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Shuffle_SOAR-8A2BE2?&style=for-the-badge&logo=Shuffle&logoColor=white" />
-    <img src="https://img.shields.io/badge/-The_Hive-FFD700?&style=for-the-badge&logo=TheHive&logoColor=white" />
-</div>
 
 <!-- ## Certifications
 <div>
