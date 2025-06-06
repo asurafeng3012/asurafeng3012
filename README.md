@@ -12,8 +12,8 @@ I am a **Cybersecurity Enthusiast** with a passion for **threat detection, incid
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory Security                     | <a href="https://github.com/Divyansh121699/ActiveDirectory-HomeLab">Active Directory Home Lab</a> |
-| Network Traffic Analysis                      | <a href="https://github.com/Divyansh121699/ActiveDirectory-HomeLab">Active Directory Home Lab</a> |
+| Active Directory Security                     | <a href="https://github.com/asurafeng3012/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
+| Network Traffic Analysis                      | <a href="https://github.com/asurafeng3012/Active-Directory-Home-Lab">Active Directory Home Lab</a> |
 
 ## Tools
 
