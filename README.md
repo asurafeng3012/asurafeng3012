@@ -1,5 +1,5 @@
 # Hello, I'm Habeeb Haliru
-<a href="www.linkedin.com/in/habeeb-haliru-894b7524a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/habeeb-haliru-894b7524a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <a href="https://github.com/asurafeng3012"><img src="https://img.shields.io/badge/-GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
