@@ -3,7 +3,7 @@
 
 <a href="https://github.com/asurafeng3012"><img src="https://img.shields.io/badge/-GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
-I am a Master's student in **Artificial Intelligence at University of South Dakota**, with a personal focus in **Cybersecurity**. My expertise includes **network security, cloud security, threat analysis, SIEM tools, penetration testing, and security automation**.
+I am a Master's student in **Cyber Defense at Dakota State University**, with a personal focus in **Security Management**. My expertise includes **network security, cloud security, threat analysis, SIEM tools, penetration testing, and security automation**.
 
 ## Objective
 I am a **Cybersecurity Enthusiast** with a passion for **threat detection, incident response, and security automation** to protect organizations from evolving cyber threats. With hands-on experience in **Active Directory security and SIEM solutions**, I have built home labs simulating real-world security challenges.
